@@ -4,4 +4,4 @@
 [Espacio reservado para el Alumno B]
 
 ## ⚙️ Backend (Servidor y Base de Datos)
-[Espacio reservado para el Alumno A]
+Elegimos Node.js con Express por su alto rendimiento, arquitectura orientada a eventos y uso de JavaScript en todo el stack.
